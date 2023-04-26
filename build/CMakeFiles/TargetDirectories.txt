@@ -1,0 +1,3 @@
+/Users/meltem/Desktop/computervision/opencv_project/build/CMakeFiles/lab2.dir
+/Users/meltem/Desktop/computervision/opencv_project/build/CMakeFiles/edit_cache.dir
+/Users/meltem/Desktop/computervision/opencv_project/build/CMakeFiles/rebuild_cache.dir

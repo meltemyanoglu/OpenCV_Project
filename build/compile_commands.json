@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/meltem/Desktop/computervision/opencv_project/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /opt/homebrew/Cellar/opencv/4.7.0_2/include/opencv4 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -std=gnu++11 -o CMakeFiles/lab2.dir/lab2.cpp.o -c /Users/meltem/Desktop/computervision/opencv_project/lab2.cpp",
+  "file": "/Users/meltem/Desktop/computervision/opencv_project/lab2.cpp"
+}
+]
